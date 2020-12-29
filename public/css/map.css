@@ -9,10 +9,12 @@
     width: 100%;
     height: 28rem;
   }
+  .map-container {
+    margin-top: -32px;
+   }
   
   .map-container footer {
     padding: 2rem 0;
-  
     text-align: center;
   }
   
